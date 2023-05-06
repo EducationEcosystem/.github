@@ -1,4 +1,4 @@
-<div style="background-color: white">
+<div style="background-color: #FFFFFF">
   <img src="https://user-images.githubusercontent.com/127954714/236630107-4416d15e-8eeb-4161-9297-f9d31e284102.png" alt="ledu-logo-horizontal-v01-1920" style="display: block;">
 </div>
 
