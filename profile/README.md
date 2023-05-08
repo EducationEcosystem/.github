@@ -4,6 +4,6 @@
 
 
 
-We are a project-based online education platform that teaches people how to build products. Categories we cover include programming, game development, cybersecurity, artificial intelligence, data science and blockchain.
+<h2>We are a project-based online education platform that teaches people how to build products. Categories we cover include programming, game development, cybersecurity, artificial intelligence, data science and blockchain.</h2>
 
 https://www.education-ecosystem.com/
