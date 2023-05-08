@@ -1,5 +1,5 @@
 <div style="background-color: #FFFFFF">
-  <img src="https://user-images.githubusercontent.com/127954714/236630107-4416d15e-8eeb-4161-9297-f9d31e284102.png" alt="ledu-logo-horizontal-v01-1920" style="display: block;">
+  <img src="https://user-images.githubusercontent.com/127954714/236808973-e911c9ad-8ba5-483b-acb3-ddf1f9f18056.jpg" alt="ledu-logo-horizontal" style="display: block;">
 </div>
 
 
